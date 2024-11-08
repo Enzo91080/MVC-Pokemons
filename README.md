@@ -35,5 +35,3 @@ function getDatabaseConnection() {
 4. **Lancer l'application**
 - Assurez-vous que votre serveur web est en cours d'exécution.
 - Accédez à l'application dans votre navigateur via http://localhost/pokemons ou http://pokemons.local (si vous avez configuré un VirtualHost).
-
-```
