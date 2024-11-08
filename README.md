@@ -7,7 +7,8 @@ Cette application est un système de gestion des Pokémons permettant d'effectue
 1. **Clonez le dépôt** (ou téléchargez les fichiers) dans votre répertoire de serveur web.
 
    ```bash
-   git clone https://github.com/votre-utilisateur/pokemon-crud-app.git
+   git clone https://github.com/Enzo91080/MVC-Pokemons.git
+   
 
 2. **Configurez la base de données :**
 
